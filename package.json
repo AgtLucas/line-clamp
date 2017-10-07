@@ -2,7 +2,7 @@
   "name": "line-clamp",
   "version": "1.0.0",
   "description": "React Line Clamp Component",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
