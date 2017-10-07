@@ -29,6 +29,7 @@
     "babel-preset-react": "^6.24.1"
   },
   "dependencies": {
-    "linaria": "^0.0.2-alpha.0"
+    "linaria": "^0.0.2-alpha.0",
+    "react": "^16.0.0"
   }
 }
