@@ -2,9 +2,7 @@ import { css, styles } from 'linaria'
 
 const clamp = css`
   position: relative;
-  display: block;
   height: calc(16px * 1.2 * var(--lines));
-  padding: 0;
   overflow: hidden;
   line-height: 1.2;
 
