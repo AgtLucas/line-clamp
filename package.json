@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/line-clamp/issues"
   },
-  "homepage": "https://github.com/AgtLucas/line-clamp#readme"
+  "homepage": "https://github.com/AgtLucas/line-clamp#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
 }
