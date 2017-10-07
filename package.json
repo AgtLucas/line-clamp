@@ -1,0 +1,25 @@
+{
+  "name": "line-clamp",
+  "version": "1.0.0",
+  "description": "React Line Clamp Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/line-clamp.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "line",
+    "clamp"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/line-clamp/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/line-clamp#readme"
+}
