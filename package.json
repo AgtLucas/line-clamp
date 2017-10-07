@@ -23,13 +23,13 @@
     "url": "https://github.com/AgtLucas/line-clamp/issues"
   },
   "homepage": "https://github.com/AgtLucas/line-clamp#readme",
+  "dependencies": {
+    "linaria": "^0.0.2-alpha.0",
+    "react": "^16.0.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1"
-  },
-  "dependencies": {
-    "linaria": "^0.0.2-alpha.0",
-    "react": "^16.0.0"
   }
 }
